@@ -1,0 +1,46 @@
+@font-face{ 
+	font-family: 'Varela Round'; 
+	src: url('fonts/varelaround-regular-webfont.eot');
+    src: url('fonts/varelaround-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/varelaround-regular-webfont.woff2') format('woff2'),
+         url('fonts/varelaround-regular-webfont.woff') format('woff'),
+         url('fonts/varelaround-regular-webfont.ttf') format('truetype'),
+         url('fonts/varelaround-regular-webfont.svg#varela_roundregular') format('svg');
+    font-weight: normal;
+    font-style: normal; 
+}
+
+body {
+	font-family: 'Varela Round';
+	background-color: #000;
+	color: #fff;
+
+	/* Allow mouse dragging. */
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+	
+	/* disable touch panning/zooming */
+	-ms-touch-action: none;
+	touch-action: none;
+
+	/* Allow canvas to hit the edges of the browser viewport. */
+	margin: 0;
+}
+
+#screen canvas {
+	margin: auto;
+
+	/* Hide the gap for font descenders. */
+	display: block;
+	
+	/* disable scaling interpolation */
+	image-rendering: optimizeSpeed;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: optimize-contrast;
+	-ms-interpolation-mode: nearest-neighbor;
+}

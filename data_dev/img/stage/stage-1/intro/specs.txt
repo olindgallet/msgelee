@@ -1,0 +1,17 @@
+Comic Art
+
+Filters > Artistic > Cartoonify
+	Mask Radius > 15
+	%Black > 0.075
+Filter > Decor > Old Paper
+	Add Blot
+	Distress Paper Edge
+	Send Distress to Channel
+		> Amount 127
+		> Size 1
+	Paper Color > d0c1a2
+	
+	Text
+	Arcade Rounded
+		16
+		#fff

@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Knife Woman (Original Song, Free Stage)_data" version="1.3.0" audacityversion="2.0.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="1.4621977128" zoom="1233.0753797650" rate="44100.0">
+	<tags>
+		<tag name="major_brand" value="dash"/>
+		<tag name="Software" value="Lavf56.25.101"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+		<tag name="minor_version" value="0"/>
+	</tags>
+	<wavetrack name="Knife Woman (Original Song, Free Stage)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2819044">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d1b.au" len="192582" min="-0.438952" max="0.691759" rms="0.145707"/>
+				</waveblock>
+				<waveblock start="192582">
+					<simpleblockfile filename="e00002fe.au" len="262144" min="-0.474072" max="0.633657" rms="0.143257"/>
+				</waveblock>
+				<waveblock start="454726">
+					<simpleblockfile filename="e0000ada.au" len="262144" min="-0.488348" max="0.703939" rms="0.14216"/>
+				</waveblock>
+				<waveblock start="716870">
+					<simpleblockfile filename="e0000ff0.au" len="262144" min="-0.471947" max="0.637593" rms="0.142946"/>
+				</waveblock>
+				<waveblock start="979014">
+					<simpleblockfile filename="e00001c2.au" len="262144" min="-0.40928" max="0.710267" rms="0.131243"/>
+				</waveblock>
+				<waveblock start="1241158">
+					<simpleblockfile filename="e0000ffb.au" len="262144" min="-0.457406" max="0.672949" rms="0.135969"/>
+				</waveblock>
+				<waveblock start="1503302">
+					<simpleblockfile filename="e0000021.au" len="262144" min="-0.481121" max="0.59012" rms="0.142228"/>
+				</waveblock>
+				<waveblock start="1765446">
+					<simpleblockfile filename="e000052d.au" len="262144" min="-0.429283" max="0.576463" rms="0.141623"/>
+				</waveblock>
+				<waveblock start="2027590">
+					<simpleblockfile filename="e00008e2.au" len="262144" min="-0.451885" max="0.662339" rms="0.144125"/>
+				</waveblock>
+				<waveblock start="2289734">
+					<simpleblockfile filename="e0000ded.au" len="262144" min="-0.429095" max="0.64983" rms="0.133505"/>
+				</waveblock>
+				<waveblock start="2551878">
+					<simpleblockfile filename="e0000765.au" len="133583" min="-0.451419" max="0.691983" rms="0.107684"/>
+				</waveblock>
+				<waveblock start="2685461">
+					<simpleblockfile filename="e0000c88.au" len="133583" min="-0.425408" max="0.620921" rms="0.106695"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Knife Woman (Original Song, Free Stage)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2819044">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a98.au" len="192582" min="-0.438952" max="0.691759" rms="0.145707"/>
+				</waveblock>
+				<waveblock start="192582">
+					<simpleblockfile filename="e0000951.au" len="262144" min="-0.474072" max="0.633657" rms="0.143256"/>
+				</waveblock>
+				<waveblock start="454726">
+					<simpleblockfile filename="e0000eb2.au" len="262144" min="-0.488348" max="0.703939" rms="0.14216"/>
+				</waveblock>
+				<waveblock start="716870">
+					<simpleblockfile filename="e0000b8c.au" len="262144" min="-0.471947" max="0.637593" rms="0.142947"/>
+				</waveblock>
+				<waveblock start="979014">
+					<simpleblockfile filename="e00006d4.au" len="262144" min="-0.40928" max="0.710267" rms="0.131243"/>
+				</waveblock>
+				<waveblock start="1241158">
+					<simpleblockfile filename="e00004f7.au" len="262144" min="-0.457406" max="0.672949" rms="0.135969"/>
+				</waveblock>
+				<waveblock start="1503302">
+					<simpleblockfile filename="e00005ff.au" len="262144" min="-0.481121" max="0.59012" rms="0.142229"/>
+				</waveblock>
+				<waveblock start="1765446">
+					<simpleblockfile filename="e00008ac.au" len="262144" min="-0.429283" max="0.576463" rms="0.141623"/>
+				</waveblock>
+				<waveblock start="2027590">
+					<simpleblockfile filename="e00006bf.au" len="262144" min="-0.451885" max="0.662339" rms="0.144124"/>
+				</waveblock>
+				<waveblock start="2289734">
+					<simpleblockfile filename="e000095c.au" len="262144" min="-0.429095" max="0.64983" rms="0.133505"/>
+				</waveblock>
+				<waveblock start="2551878">
+					<simpleblockfile filename="e0000c38.au" len="133583" min="-0.451419" max="0.691983" rms="0.107684"/>
+				</waveblock>
+				<waveblock start="2685461">
+					<simpleblockfile filename="e00004d3.au" len="133583" min="-0.425408" max="0.620921" rms="0.106695"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
