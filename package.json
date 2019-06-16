@@ -1,0 +1,29 @@
+{
+  "main": "index.html",
+  "name": "MsGelee",
+  "homepage": "http://www.olingallet.com",
+  "description": "A platformer using Melon.js",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+	"grunt-contrib-concat": "^0.0.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-imagemin": "^0.9.2",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+	"grunt-contrib-yuidoc": "^0.0.0",
+	"grunt-spritesmith": "^0.0.0"
+  },
+    "window": {
+    "width": 920,
+    "height": 690,
+    "title": "Ms Gelee",
+    "toolbar": false,
+	"frame": true,
+	"resizable": false
+  },
+  "webkit": {
+	"plugin": true
+	}
+}
